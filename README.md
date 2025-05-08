@@ -56,7 +56,6 @@ Cada pasta de desafio inclui:
 Este repositório é mantido por **Nicolas Spogis** ([@Spogis](https://github.com/Spogis)), engenheiro, educador e entusiasta da integração entre **IA** e **simulação de processos**.
 
 Caso queira entrar em contato:
-- 📬 Email: nicolas.spogis@gmail.com
 - 🌐 https://linktr.ee/Ai4Tech
 
 ---

@@ -28,8 +28,8 @@ Durante o curso, foram propostos desafios práticos para aplicar os conceitos ap
 | Desafio | Tópico | Status |
 |--------|--------|--------|
 | Desafio 1 | Análise de textos em idiomas desconhecidos com LLMs | ✅ Concluído |
-| Desafio 2 | [A definir conforme andamento do curso] | 🔄 Em andamento |
-| Desafio 3 | - | ⏳ Aguardando liberação |
+| Desafio 2 | [A definir conforme andamento do curso] | ⏳ Aguardando liberação |
+| Desafio 3 | - | - |
 | ... | - | - |
 
 Cada pasta de desafio inclui:
